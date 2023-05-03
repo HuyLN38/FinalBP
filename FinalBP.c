@@ -1,11 +1,11 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 #include <windows.h>
 #include <stdbool.h>
-#include "birthday.h"
 #include <cstring>
+#include "birthday.h"
+
 
 int compare(const void* a, const void* b)
 {
@@ -436,5 +436,3 @@ int main() {
 
     return 0;
 }
-
->>>>>>> bfe9f240f87b74c84ea42d9f02b322edd6d53e7d
